@@ -1,0 +1,26 @@
+.discover_feeds__text{
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-weight: 500;
+    color: rgb(66, 66, 66);
+}
+
+.discover__feeds {
+    height: 100vh;
+    background-color: rgb(243, 243, 243);
+    overflow-y: scroll;
+}
+
+.discovery__feeds__display {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fade-enter {
+    opacity: 0;
+}
+
+.fade-enter-active {
+    opacity: 0;
+}
